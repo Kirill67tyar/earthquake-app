@@ -1,0 +1,381 @@
+{
+     "type": "FeatureCollection",
+     "metadata": {
+          "generated": 1615551120000,
+          "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2019-01-01&endtime=2019-02-02&latitude=51.51&longitude=-0.12&maxradiuskm=2000&minmagnitude=2",
+          "title": "USGS Earthquakes",
+          "status": 200,
+          "api": "1.10.3",
+          "count": 9
+     },
+     "features": [
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.2,
+                    "place": "Norwegian Sea",
+                    "time": 1548776975370,
+                    "updated": 1555614580040,
+                    "tz": 0,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000jhds",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000jhds&format=geojson",
+                    "felt": null,
+                    "cdi": null,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 271,
+                    "net": "us",
+                    "code": "2000jhds",
+                    "ids": ",us2000jhds,",
+                    "sources": ",us,",
+                    "types": ",geoserve,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 6.499,
+                    "rms": 0.44,
+                    "gap": 137,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.2 - Norwegian Sea"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         0.5506,
+                         65.9028,
+                         10
+                    ]
+               },
+               "id": "us2000jhds"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.9,
+                    "place": "3km S of Grebocice, Poland",
+                    "time": 1548766424980,
+                    "updated": 1594401822097,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ja1i",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000ja1i&format=geojson",
+                    "felt": 5,
+                    "cdi": 3.4,
+                    "mmi": 6.427,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 371,
+                    "net": "us",
+                    "code": "2000ja1i",
+                    "ids": ",us2000ja1i,",
+                    "sources": ",us,",
+                    "types": ",dyfi,geoserve,impact-text,origin,phase-data,shakemap,",
+                    "nst": null,
+                    "dmin": 1.998,
+                    "rms": 1.13,
+                    "gap": 29,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.9 - 3km S of Grebocice, Poland"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         16.1672,
+                         51.572,
+                         10
+                    ]
+               },
+               "id": "us2000ja1i"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.3,
+                    "place": "Iceland region",
+                    "time": 1548604244660,
+                    "updated": 1555089436040,
+                    "tz": -120,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000jhaq",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000jhaq&format=geojson",
+                    "felt": null,
+                    "cdi": null,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 284,
+                    "net": "us",
+                    "code": "2000jhaq",
+                    "ids": ",us2000jhaq,",
+                    "sources": ",us,",
+                    "types": ",geoserve,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 4.336,
+                    "rms": 0.23,
+                    "gap": 163,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.3 - Iceland region"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         -27.1527,
+                         61.3281,
+                         10
+                    ]
+               },
+               "id": "us2000jhaq"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.5,
+                    "place": "33km NE of Lipari, Italy",
+                    "time": 1548431527530,
+                    "updated": 1555089302040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j8u5",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j8u5&format=geojson",
+                    "felt": null,
+                    "cdi": null,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 312,
+                    "net": "us",
+                    "code": "2000j8u5",
+                    "ids": ",us2000j8u5,",
+                    "sources": ",us,",
+                    "types": ",geoserve,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 0.622,
+                    "rms": 1.02,
+                    "gap": 80,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.5 - 33km NE of Lipari, Italy"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         15.2673,
+                         38.6414,
+                         216.46
+                    ]
+               },
+               "id": "us2000j8u5"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 3.9,
+                    "place": "0km W of Jejkowice, Poland",
+                    "time": 1548196530080,
+                    "updated": 1555089286040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j8la",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j8la&format=geojson",
+                    "felt": 2,
+                    "cdi": 6.8,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 235,
+                    "net": "us",
+                    "code": "2000j8la",
+                    "ids": ",us2000j8la,",
+                    "sources": ",us,",
+                    "types": ",dyfi,geoserve,impact-text,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 0.677,
+                    "rms": 0.66,
+                    "gap": 98,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 3.9 - 0km W of Jejkowice, Poland"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         18.4559,
+                         50.1095,
+                         5.5
+                    ]
+               },
+               "id": "us2000j8la"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.3,
+                    "place": "8km E of Ravenna, Italy",
+                    "time": 1547507036390,
+                    "updated": 1554238380040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j3y5",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j3y5&format=geojson",
+                    "felt": 60,
+                    "cdi": 5.6,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 318,
+                    "net": "us",
+                    "code": "2000j3y5",
+                    "ids": ",us2000j3y5,",
+                    "sources": ",us,",
+                    "types": ",dyfi,geoserve,moment-tensor,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 1.171,
+                    "rms": 0.7,
+                    "gap": 22,
+                    "magType": "mww",
+                    "type": "earthquake",
+                    "title": "M 4.3 - 8km E of Ravenna, Italy"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         12.3066,
+                         44.4098,
+                         10
+                    ]
+               },
+               "id": "us2000j3y5"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 3.7,
+                    "place": "5km NNE of Polkowice, Poland",
+                    "time": 1547283506160,
+                    "updated": 1554238341040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j3ab",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j3ab&format=geojson",
+                    "felt": null,
+                    "cdi": null,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 211,
+                    "net": "us",
+                    "code": "2000j3ab",
+                    "ids": ",us2000j3ab,",
+                    "sources": ",us,",
+                    "types": ",geoserve,impact-text,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 1.958,
+                    "rms": 0.92,
+                    "gap": 68,
+                    "magType": "ml",
+                    "type": "earthquake",
+                    "title": "M 3.7 - 5km NNE of Polkowice, Poland"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         16.1081,
+                         51.5455,
+                         5
+                    ]
+               },
+               "id": "us2000j3ab"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.8,
+                    "place": "9km N of Himare, Albania",
+                    "time": 1546630058670,
+                    "updated": 1552067415040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j0ch",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000j0ch&format=geojson",
+                    "felt": 7,
+                    "cdi": 4.3,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 357,
+                    "net": "us",
+                    "code": "2000j0ch",
+                    "ids": ",us2000j0ch,",
+                    "sources": ",us,",
+                    "types": ",dyfi,geoserve,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 0.479,
+                    "rms": 1.23,
+                    "gap": 34,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.8 - 9km N of Himare, Albania"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         19.7274,
+                         40.19,
+                         12.61
+                    ]
+               },
+               "id": "us2000j0ch"
+          },
+          {
+               "type": "Feature",
+               "properties": {
+                    "mag": 4.3,
+                    "place": "4km SSW of Trasacco, Italy",
+                    "time": 1546367867040,
+                    "updated": 1552067413040,
+                    "tz": 60,
+                    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000izp2",
+                    "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us2000izp2&format=geojson",
+                    "felt": 17,
+                    "cdi": 3.4,
+                    "mmi": null,
+                    "alert": null,
+                    "status": "reviewed",
+                    "tsunami": 0,
+                    "sig": 290,
+                    "net": "us",
+                    "code": "2000izp2",
+                    "ids": ",us2000izp2,",
+                    "sources": ",us,",
+                    "types": ",dyfi,geoserve,origin,phase-data,",
+                    "nst": null,
+                    "dmin": 0.3,
+                    "rms": 1,
+                    "gap": 62,
+                    "magType": "mb",
+                    "type": "earthquake",
+                    "title": "M 4.3 - 4km SSW of Trasacco, Italy"
+               },
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         13.5206,
+                         41.9218,
+                         16.11
+                    ]
+               },
+               "id": "us2000izp2"
+          }
+     ],
+     "bbox": [
+          -27.1527,
+          38.6414,
+          5,
+          19.7274,
+          65.9028,
+          216.46
+     ]
+}
