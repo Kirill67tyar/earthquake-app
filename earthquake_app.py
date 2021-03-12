@@ -4,6 +4,7 @@ import requests
 """
 url for example:
 https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2019-01-01&endtime=2019-02-02&latitude=51.51&longitude=-0.12&maxradiuskm=2000&minmagnitude=2
+You can try input this url in browser and get json data. So, you will see json data
 """
 
 url = 'https://earthquake.usgs.gov/fdsnws/event/1/query'
